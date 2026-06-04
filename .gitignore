@@ -1,5 +1,5 @@
-/EXAMPLE/source/LAUNCHER/build
-/EXAMPLE/source/DAEMON/build
-/EXAMPLE/source/PAYLOAD/build
+/source/LAUNCHER/build
+/source/DAEMON/build
+/source/PAYLOAD/build
 *.bin
 *.pkg
