@@ -14,7 +14,7 @@ void wait_for_unload()
 
 int main(int, char *[])
 {
-    // Will neeed to jailbreak as this daemon will be sandboxed.
+    // Will need to jailbreak as this daemon will be sandboxed.
 
     wait_for_unload();
 
