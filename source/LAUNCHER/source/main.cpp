@@ -1,7 +1,6 @@
 #include <orbis/libkernel.h>
 #include <orbis/Sysmodule.h>
 #include <orbis/SystemService.h>
-#include <orbis/UserService.h> //un-needed
 
 #include <libjbc.h>
 
